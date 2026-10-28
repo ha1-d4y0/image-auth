@@ -6,7 +6,6 @@ from pathlib import Path
 import cv2
 import numpy as np
 
-# JPEG高圧縮（Q25等）に極めて強い低周波DCT係数ペア
 COEFF_PAIRS = [
     ((0, 1), (1, 0)),
     ((1, 1), (0, 2)),

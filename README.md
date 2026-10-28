@@ -210,12 +210,3 @@ image_auth/
         └── benchmark_report.csv # 検出結果のCSVサマリー
 
 ```
-
-```
-
-<ElicitationsGroup message="READMEの追加カスタマイズや機能追加のご要望があれば選択してください：">
-  <Elicitation label="Web API（FastAPIなど）化のコードを作成する" query="image_auth.pyをWeb API（FastAPI）化するためのコードを作成してください。"/>
-  <Elicitation label="GUI（Tkinter/PyQt）のインターフェースを作成する" query="image_auth.pyを操作するためのGUIデスクトップアプリのコードを作成してください。"/>
-</ElicitationsGroup>
-
-```
